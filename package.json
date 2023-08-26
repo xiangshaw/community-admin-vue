@@ -1,0 +1,38 @@
+{
+  "name": "community-admin-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^0.2.7",
+    "axios": "^0.26.0",
+    "core-js": "^3.6.5",
+    "dayjs": "^1.11.0",
+    "echarts": "^5.4.1",
+    "element-plus": "^2.0.1",
+    "i": "^0.3.7",
+    "less": "^4.1.2",
+    "less-loader": "5.0.0",
+    "mitt": "^3.0.0",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0",
+    "wangeditor": "^4.7.12"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "vue-echarts": "^6.5.4"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
